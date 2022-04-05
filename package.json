@@ -1,0 +1,24 @@
+{
+  "name": "HDip Project Handbook Sheamus Clifford",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@carbon/charts-svelte": "^0.55.1",
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.7",
+    "layercake": "^6.1.0",
+    "svelte": "^3.46.4",
+    "vite": "^2.3.0",
+    "yootils": "^0.3.1"
+  },
+  "dependencies": {
+    "carbon-components": "^10.40.0",
+    "dotenv": "^10.0.0",
+    "svelte-chartjs": "^1.1.4",
+    "svelte-frappe-charts": "^1.9.1",
+    "svelte-spa-router": "^3.1.0"
+  }
+}
