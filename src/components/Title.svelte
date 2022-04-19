@@ -10,12 +10,8 @@
       <a target="_blank" href="https://hdiphiveapp.netlify.app/"> <img src={bba} width="250" alt="img" /> </a>
     </div>
     <div class="uk-width-expand@m uk-text-left ">
-      <div class="title uk-text-large">
-        {$title}
-      </div>
-      <div class="uk-text-muted uk-text-small">
-        {$subTitle}
-      </div>
+
+      
     </div>
     <div class="uk-card uk-card-small uk-text-center ">
       <a
@@ -102,5 +98,28 @@
         </div>
       </a>
     </div>
+
+    <div class="uk-card uk-card-small uk-text-center ">
+      <a
+        target="_blank"
+        href="https://drive.google.com/file/d/1lWqRwKydCxhq4bCUGJY6P8DB6nIXv4qc/view?usp=sharing"
+      >
+        <div>
+          <i
+            class="far fa-file-pdf fa-3x"
+            style="color:rgb(235, 164, 52)"
+            title="Front End repo"
+            pos="bottom"
+            uk-tooltip
+          />
+        </div>
+        <div class="uk-width-expand@m uk-text-left">
+          <div class="uk-text-muted uk-text-center" style="font-size:large">
+            Final Report
+          </div>
+        </div>
+      </a>
+    </div>
+
   </div>
 </div>

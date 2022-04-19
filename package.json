@@ -19,6 +19,7 @@
     "dotenv": "^10.0.0",
     "svelte-chartjs": "^1.1.4",
     "svelte-frappe-charts": "^1.9.1",
+    "svelte-pdf-viewer": "^1.0.0",
     "svelte-spa-router": "^3.1.0"
   }
 }

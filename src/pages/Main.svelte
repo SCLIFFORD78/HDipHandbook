@@ -18,6 +18,7 @@
     <h1 class="uk-heading-small">Hive Tracker</h1>
     <p class="uk-text-large">
       Beehive monitoring solution using android and web application
+      <a class="uk-link-muted" href="https://drive.google.com/file/d/1lWqRwKydCxhq4bCUGJY6P8DB6nIXv4qc/view?usp=sharing">Link</a>
     </p>
   </div>
 </div>
