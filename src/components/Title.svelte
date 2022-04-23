@@ -6,7 +6,7 @@
 
 <div class="uk-width-1-1 uk-padding">
   <div class="uk-grid">
-    <div class="uk-width-1-4@m">
+    <div class="uk-width-1-5@m">
       <a target="_blank" href="https://hdiphiveapp.netlify.app/"> <img src={bba} width="250" alt="img" /> </a>
     </div>
     <div class="uk-width-expand@m uk-text-left ">
@@ -116,6 +116,28 @@
         <div class="uk-width-expand@m uk-text-left">
           <div class="uk-text-muted uk-text-center" style="font-size:large">
             Final Report
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="uk-card uk-card-small uk-text-center ">
+      <a
+        target="_blank"
+        href="http://www.youtube.com/watch?v=IQ88TLnN09g"
+      >
+        <div>
+          <i
+            class="fab fa-youtube fa-3x"
+            style="color:rgb(235, 164, 52)"
+            title="Front End repo"
+            pos="bottom"
+            uk-tooltip
+          />
+        </div>
+        <div class="uk-width-expand@m uk-text-left">
+          <div class="uk-text-muted uk-text-center" style="font-size:large">
+            Video
           </div>
         </div>
       </a>
