@@ -146,7 +146,7 @@
     <div class="uk-card uk-card-small uk-text-center ">
       <a
         target="_blank"
-        href="http://www.youtube.com/watch?v=IQ88TLnN09g"
+        href="https://play.google.com/store/apps/details?id=ie.wit.hive"
       >
         <div>
           <i
